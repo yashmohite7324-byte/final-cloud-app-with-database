@@ -282,5 +282,10 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 .DS_Store
-.DS_Store
 final_template.zip
+db.sqlite3
+generate_screenshots.py
+seed_db.py
+rendered_admin.html
+rendered_exam_result.html
+
